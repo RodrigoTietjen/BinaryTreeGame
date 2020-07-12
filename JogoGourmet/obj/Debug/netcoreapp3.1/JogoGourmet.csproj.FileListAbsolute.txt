@@ -1,0 +1,13 @@
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\bin\Debug\netcoreapp3.1\JogoGourmet.exe
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\bin\Debug\netcoreapp3.1\JogoGourmet.deps.json
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\bin\Debug\netcoreapp3.1\JogoGourmet.runtimeconfig.json
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\bin\Debug\netcoreapp3.1\JogoGourmet.runtimeconfig.dev.json
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\bin\Debug\netcoreapp3.1\JogoGourmet.dll
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\bin\Debug\netcoreapp3.1\JogoGourmet.pdb
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\obj\Debug\netcoreapp3.1\JogoGourmet.csprojAssemblyReference.cache
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\obj\Debug\netcoreapp3.1\JogoGourmet.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\obj\Debug\netcoreapp3.1\JogoGourmet.AssemblyInfo.cs
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\obj\Debug\netcoreapp3.1\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\obj\Debug\netcoreapp3.1\JogoGourmet.dll
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\obj\Debug\netcoreapp3.1\JogoGourmet.pdb
+C:\Users\Rodrigo Tietjen\source\repos\JogoGourmet\JogoGourmet\obj\Debug\netcoreapp3.1\JogoGourmet.genruntimeconfig.cache
